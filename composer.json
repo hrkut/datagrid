@@ -1,9 +1,9 @@
 {
   "name": "aginev/datagrid",
-  "description": "Datagrid package for Laravel v5",
+  "description": "Datagrid package for Laravel v7",
   "keywords": [
     "Datagrid",
-    "Datagrid Package for Laravel v5"
+    "Datagrid Package for Laravel v7"
   ],
   "homepage": "http://aginev.com",
   "license": "MIT",
@@ -20,9 +20,9 @@
   },
   "require": {
     "php": "^7.2",
-    "illuminate/support": "^6.0",
-    "illuminate/contracts": "^6.0",
-    "illuminate/view": "^6.0",
-    "laravelcollective/html": "^6.0"
+    "illuminate/support": "^7.0",
+    "illuminate/contracts": "^7.0",
+    "illuminate/view": "^7.0",
+    "laravelcollective/html": "^7.0"
   }
 }
